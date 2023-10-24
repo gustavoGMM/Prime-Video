@@ -1,37 +1,23 @@
-.material-symbols-outlined {
-    font-variation-settings:
-    'FILL' 0,
-    'wght' 400,
-    'GRAD' 0,
-    'opsz' 24
-  }
-  
-  
-  .material-symbols-outlined {
-    font-variation-settings:
-    'FILL' 0,
-    'wght' 400,
-    'GRAD' 0,
-    'opsz' 24
-  }
-  .material-symbols-outlined {
-      font-variation-settings:
-      'FILL' 0,
-      'wght' 400,
-      'GRAD' 0,
-      'opsz' 24
-    }
+@font-face{
+    font-family: 'teste';
+     src: url(/ProjetandoSite/fontes/AmazonEmber_Rg.woff);
+}
+
     
 *{
     margin: 10px;
     height: 10px;
-    background-color: rgb(16, 14, 185);
+    background-color: rgb(10, 40, 141);
+    color: rgb(255, 230, 0);
+    text-decoration: none;
 }
 
 nav{
-     background-color: rgb(172, 172, 204);
+     background-color: rgb(47, 66, 42);
      padding: 15px;
      text-align: center;
+     color: rgb(230, 230, 14);
+     
      
 }
 
