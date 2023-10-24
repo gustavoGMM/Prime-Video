@@ -3,20 +3,45 @@
      src: url(/ProjetandoSite/fontes/AmazonEmber_Rg.woff);
 }
 
+.material-symbols-outlined {
+    font-variation-settings:
+    'FILL' 0,
+    'wght' 400,
+    'GRAD' 0,
+    'opsz' 24
+  }
+  
+  
+  .material-symbols-outlined {
+    font-variation-settings:
+    'FILL' 0,
+    'wght' 400,
+    'GRAD' 0,
+    'opsz' 24
+  }
+  .material-symbols-outlined {
+      font-variation-settings:
+      'FILL' 0,
+      'wght' 400,
+      'GRAD' 0,
+      'opsz' 24
+    }
     
 *{
-    margin: 10px;
-    height: 10px;
-    background-color: rgb(10, 40, 141);
-    color: rgb(255, 230, 0);
+    margin: 0px;
+    height: 0px;
+    background-color: rgb(0, 0, 0);
+    color: rgb(247, 246, 242);
     text-decoration: none;
+
 }
 
 nav{
-     background-color: rgb(47, 66, 42);
-     padding: 15px;
+     background-color: rgb(23, 133, 177);
      text-align: center;
-     color: rgb(230, 230, 14);
+     color: rgb(247, 247, 244);
+     padding: 28px 0px;
+    
      
      
 }
@@ -31,5 +56,6 @@ img{
 }
 
 .logo{
-    text-align: top
+    text-align: top;
+    
 }
