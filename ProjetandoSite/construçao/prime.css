@@ -9,6 +9,7 @@
 }
 
 *{
+<<<<<<< Updated upstream
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -134,10 +135,34 @@ color: #ffffff;
   align-items: center;
   justify-content: center;
   font-weight: 700;
+=======
+  width: 1;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+ 
+>>>>>>> Stashed changes
   
 }
+<<<<<<< Updated upstream
 .anuncio{
   width: 100%;
+=======
+
+nav{
+   background-color: rgb(0, 0, 0);
+   text-align: center;
+   color: rgb(247, 247, 244);
+   padding: 28px 0px;
+}
+
+img{
+  width: 7%;
+>>>>>>> Stashed changes
   height: auto;
   margin-top: 20px;
   margin-bottom: 30px;
@@ -156,6 +181,7 @@ p{
   font-weight: 100;
 }
 
+<<<<<<< Updated upstream
 
 .entreAzul{
   width: 280px;
@@ -164,6 +190,12 @@ p{
   align-items: center;
   justify-content: center;
   margin: 10px 0;
+=======
+h1{
+  margin: 200px 15px ;
+  text-align: left ;
+  
+>>>>>>> Stashed changes
 }
 
 
@@ -173,6 +205,7 @@ p{
   background-color: var(--branco);
  
 }
+<<<<<<< Updated upstream
 nav p{
   font-size: 16px;
 }
@@ -282,3 +315,5 @@ nav p{
 footer{
   
 }
+=======
+>>>>>>> Stashed changes
