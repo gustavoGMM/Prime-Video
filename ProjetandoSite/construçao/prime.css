@@ -144,13 +144,11 @@ color: #ffffff;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
- 
->>>>>>> Stashed changes
-  
 }
-<<<<<<< Updated upstream
+
 .anuncio{
   width: 100%;
+   }
 =======
 
 nav{
@@ -190,6 +188,7 @@ p{
   align-items: center;
   justify-content: center;
   margin: 10px 0;
+   }
 =======
 h1{
   margin: 200px 15px ;
